@@ -1,6 +1,6 @@
 self.$config = {
     nav: [
-        { title: 'Home', path: '/', source: 'https://raw.githubusercontent.com/Lurkerc/codeSpec/master/html.md' },
+        { title: 'Html', path: '/', source: 'https://raw.githubusercontent.com/Lurkerc/codeSpec/master/html.md' },
         { title: 'Css', path: '/css', source: 'https://raw.githubusercontent.com/Lurkerc/codeSpec/master/css.md' },
         { title: 'Less', path: '/less', source: 'https://raw.githubusercontent.com/Lurkerc/codeSpec/master/less.md' },
         { title: 'Javascript', path: '/javascript', source: 'https://raw.githubusercontent.com/Lurkerc/codeSpec/master/javascript.md' },
